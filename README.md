@@ -7,4 +7,4 @@
  **Members:**
    * JL
    * [Saroj Paudel](https://github.com/spsaroj)
-   * SM
+   * [Susan Maharjan](https://github.com/susanmaharjan)
