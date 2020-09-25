@@ -5,6 +5,6 @@
    * [Sagar Tiwari](https://github.com/005sagar)
    
  **Members:**
-   * JL
+   * [Jing Li](https://github.com/JingLi521864)
    * [Saroj Paudel](https://github.com/spsaroj)
    * [Susan Maharjan](https://github.com/susanmaharjan)
