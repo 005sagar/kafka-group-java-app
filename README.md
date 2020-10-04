@@ -13,4 +13,4 @@
   * [Sagar Tiwari](https://github.com/spsaroj/kafka-encryption)
   * [Jing Li](https://github.com/JingLi521864/kafka-jingli)
   * [Saroj Paudel](https://github.com/spsaroj/kafka-encryption)
-  * [Susan Maharjan]()
+  * [Susan Maharjan](https://github.com/susanmaharjan/kafka-app-2)
