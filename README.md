@@ -11,6 +11,6 @@
 
 **Individual Kafka App Links:**
   * [Sagar Tiwari](https://github.com/spsaroj/kafka-encryption)
-  * [Jing Li]()
+  * [Jing Li](https://github.com/JingLi521864/kafka-jingli)
   * [Saroj Paudel](https://github.com/spsaroj/kafka-encryption)
   * [Susan Maharjan]()
